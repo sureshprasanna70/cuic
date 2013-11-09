@@ -1,0 +1,36 @@
+.ALL {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+}
+.ALL2 {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+}
+.three {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+	color: #333333;
+	
+}
+	.sidelink
+	{
+	text-decoration:none;
+	font-family:Arial;
+	font-size:11px;	
+	color:#000000;
+	}
+
+		.sidelink:hover
+	{
+	text-decoration:none;
+	font-family:Arial;	
+	font-size:11px;
+	font-weight:bold;
+	color: #003366;
+
+	}
+	
+	

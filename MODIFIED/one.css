@@ -1,0 +1,174 @@
+
+.one {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background: #333;
+}
+.one2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: black;
+	background: #92CDCF;
+
+}
+p
+{
+	text-indent: 10px;
+	text-align: left;
+	vertical-align: 10px;
+}
+.sub_head
+{
+	font-weight: bold;
+	font-size: 20px;
+}
+.content,ul
+{
+	font-size: 15px;
+	margin-left: 10px;
+}
+.page_head
+{
+	vertical-align: 10px;
+	text-align: center;
+	color:white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.one3 {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+	color: white;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFF99;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.style12 {
+	color: #FFFFFF}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: #333;
+}
+
+.style17 {
+	font-size: 16px;
+	font-style: italic;
+}
+.style19 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.style21 {font-size: 16px}
+.style23 {font-family: Geneva, Arial, Helvetica, sans-serif}
+.style24 {font-size: 10px}
+.style28 {font-size: 12px}
+.style29 {font-size: 14px}
+.style41 {font-size: 12px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;
+margin-left: 50PX }
+
+.stat
+{
+	width:"100";
+	 height:"25";
+	 vertical-align:"bottom"
+}
+.sub_total
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: black;
+background: #92CDCF;
+font-weight: bold;
+font-size: 15px;
+text-align: right;	
+}
+.dept_name
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: black;
+background: #92CDCF;
+font-weight: bold;
+font-size: 15px;
+text-align: center;
+}
+.category
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+color: black;
+background: #92CDCF;
+font-weight: bold;
+font-size: 15px;
+}
+.footer
+{
+	color:white;
+	font-size: 12px;
+
+}
+.ALL {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+}
+.ALL2 {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+}
+.three {
+	font-family: Arial;
+	font-size: 11px;
+	line-height: 20px;
+	color: #333333;
+}
+	.sidelink
+	{
+	text-decoration:none;
+	font-family:Arial;
+	font-size:11px;	
+	color:#000000;
+	}
+
+		.sidelink:hover
+	{
+	text-decoration:none;
+	font-family:Arial;	
+	font-size:11px;
+	font-weight:bold;
+	color: #003366;
+
+	}
+.contact
+{
+	margin-left: 10px;
+	text-align: center;
+	
+}
+.gallery
+{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: black;
+	background: #92CDCF;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+}
